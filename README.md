@@ -2,4 +2,4 @@
 
 Shania Phillips and Maria Aponte Rosero 
 
-[Link to website] https://sphil5.github.io/
+[Link to website](https://sphil5.github.io/)
